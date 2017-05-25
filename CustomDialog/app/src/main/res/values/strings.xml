@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+    <string name="Okay">Okay</string>
+    <string name="Cancel">Cancel</string>
+</resources>
